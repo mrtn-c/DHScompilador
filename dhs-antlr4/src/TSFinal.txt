@@ -1,0 +1,4 @@
+int r->->->int f->->->||Fin contexto
+int l->->->||Fin contexto
+int x->->->||Fin contexto
+||Fin contexto

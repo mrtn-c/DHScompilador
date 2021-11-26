@@ -1,0 +1,10 @@
+for(int x = 3;;)
+
+for(int r = 2;;){
+    int f = 15;
+}
+
+for(;;){
+    int l = 5;
+}
+
